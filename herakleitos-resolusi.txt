@@ -1,0 +1,4 @@
+Grand Battle Plans 
+- Mempelajari html,css,javascript,php
+- Menguasai git dan github (version control system)
+- Membuat web dinamis pertama yang bisa di publikasi
