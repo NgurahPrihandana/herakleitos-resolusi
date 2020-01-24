@@ -1,2 +1,2 @@
 # herakleitos-resolusi
-Repository untuk menyimpan grand battle plan herakleitos kedepannya
+Repository untuk menyimpan resolusi Ngurah kedepannya
